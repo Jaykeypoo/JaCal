@@ -365,7 +365,7 @@ FodyWeavers.xsd
 
 #added by chatGPT durring troubleshooting
 
-# Visual Studio
+# Visual Studio 
 .vs/
 bin/
 obj/
